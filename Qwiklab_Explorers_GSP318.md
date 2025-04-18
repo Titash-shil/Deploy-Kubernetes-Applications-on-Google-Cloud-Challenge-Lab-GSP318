@@ -1,6 +1,6 @@
 # Deploy Kubernetes Applications on Google Cloud: Challenge Lab || [GSP318](https://www.cloudskillsboost.google/focuses/10457?parent=catalog) ||
 
-# # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
+## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
 ---
 ## ⚠️ **Disclaimer:**
@@ -264,11 +264,14 @@ remove_files() {
 
 remove_files
 ```
+---
 
-# Congratulations ..!!🎉  You completed the lab shortly..😃💯
+## Congratulations ..!!🎉  You completed the lab shortly..😃💯
 
-# *Well done..!* 👏
+## *Well done..!* 👏
 
-# Thank you for visiting.... :) 🗯️
+## Thank you for visiting.... :) 🗯️
 
-# [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
+## [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
+
+## Join to our community [Digital Dominators](https://linktr.ee/digital_dominators)
